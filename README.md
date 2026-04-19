@@ -19,11 +19,12 @@ No pretrained models used.
 
 ---
 
+```bash
 ## 📁 Repository Structure
 
-i23-XXXX-NLP-Assignment2/
+i23-2622-NLP-Assignment2/
 │
-│── i23-XXXX_Assignment2_DS-X.ipynb
+│── i23-2622_Assignment2_DS-X.ipynb
 │── report.pdf
 │
 │── embeddings/
@@ -47,6 +48,7 @@ i23-XXXX-NLP-Assignment2/
 │   └── ner_test.conll
 │
 └── README.md
+```
 
 ---
 
