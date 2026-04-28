@@ -360,5 +360,4 @@ All attention mechanisms are manually implemented.
 
 # Author
 
-Urdu NLP Pipeline
-Neural Text Processing and Representation Learning
+Dania Waseem
